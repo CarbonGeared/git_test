@@ -1,1 +1,0 @@
-It took me too long to see that hello_world.txt was about README
